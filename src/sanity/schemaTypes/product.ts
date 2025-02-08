@@ -71,7 +71,7 @@ const productSchema = {
             title: 'Our Products',
             value: 'our products',
           },
-          { title: 'Sales', value: 'sale' },
+          { title: 'Sales', value: 'sales' },
         ],
       },
     },
